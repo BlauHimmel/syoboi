@@ -1,0 +1,31 @@
+
+div id = main => <table> => <tbody> => <tr> => first <td> => div id = timeTableTable => <table id = v3containerTable>
+=> second <tr> => second <td class=v3cellNoBorder> => <table class=v3boxContainer> => <tbody> => <td><td><td> => <div> => class pit-item v3div
+  
+-v3dateHeader (昨天今天明天)
+
+-v3cellTime -> v3timeColumn（放松时间6-28）
+
+-v3cellNoBorder -> v3boxContainer (3列 td 昨天今天明天) -> div id = PIDXXXXXX class = pid-item v3div title = "play time"-> -v3div-inner
+
+-v3title(name) -v3ch(company) -count(episode) -subtitle(name of episode) -pidlink(http://cal.syoboi.jp/ + v3title(tid/XXXX#XXXXXX) detail)
+
+detail:
+
+div class = titleinfo
+
+section basic
+section staff
+section cast
+
+
+v3title(tid/XXXX#XXXXXX)
+http://cal.syoboi.jp/tid/XXXX/subtitle
+div id = tid_subtitle -> class progs <tbody> #1 XXXXXX
+
+class amazon 第二个tr 第一个td <a> href => amazon site =>pictre
+
+<a rel="nofollow" class="v3min" href="http://cal.syoboi.jp/iepg.php?PID=394510" title="iEPG">00</a> 
+<a class="v3title" href="/tid/4187#394510">&#12459;&#12511;&#12527;&#12470;&#12539;&#12527;&#12531;&#12480;</a> 
+<a target="_blank" href="http://www.tbs.co.jp/tv/" class="v3ch">TBS</a> 
+<a class="pidlink" style="display:none" href="/tid/4187/time?Filter=5#394510"/>
